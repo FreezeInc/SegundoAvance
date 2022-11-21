@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class ControladorArriendoEquipos {
 
-    private static ControladorArriendoEquipos instancia = null;
+    private static ControladorArriendoEquipos instancia = null; /gh
     private final ArrayList<Cliente> todosClientes;
     private final ArrayList<Equipo> todosEquipos;
     private final ArrayList<Arriendo> todosArriendos;
